@@ -1,0 +1,7 @@
+.task-card{
+    margin: 1vh;
+}
+.task-card:hover {
+    border: 1px solid white;
+    cursor: pointer;
+}

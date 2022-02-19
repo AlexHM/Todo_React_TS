@@ -1,0 +1,16 @@
+.titleTask {
+    text-align: center;
+}
+
+.card {
+    padding: 1vh;
+}
+
+.send-btn {
+    margin-top: 1vh;
+    width: 100%;
+}
+
+.text-form{
+    margin-bottom: 1vh;
+}
