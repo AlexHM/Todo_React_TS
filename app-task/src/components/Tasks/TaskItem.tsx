@@ -14,6 +14,7 @@ const TaskItem = ({ task, loadTask }: Props) => {
 
   const handleDelete = async (id: string) => {
     await TaskService.deleteTask(id);
+
     loadTask();
   };
 
